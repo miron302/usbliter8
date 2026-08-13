@@ -1,5 +1,10 @@
-# usbliter8
+⚠️ Archived
+This repository is NOT maintained. Paradigm Shift got sued and were forced to take everything down. This is just a archive it was NEVER maintained.
 
+
+
+# usbliter8
+ 
 Tethered bootrom exploit for Apple A12, S4/S5 & A13 SoCs (A12X/Z can theoretically be supported as well, but it's not implemented yet).
 
 ## Bug & exploit write-up
